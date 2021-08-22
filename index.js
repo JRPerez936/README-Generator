@@ -7,10 +7,10 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [
     {
         type:'input',
-        name:'name',
+        name:'title',
         message: 'What is the name of your project? (Required)',
-        validate: nameInput => {
-          if (nameInput) {
+        validate: titleInput => {
+          if (titleInput) {
             return true;
           } else {
             console.log('You need to enter a project name!');
@@ -93,6 +93,19 @@ const questions = [
             return true;
           } else {
             console.log('Please choose a license or no license if there are none in the project!');
+            return false;
+          }
+        }
+    },
+    {
+        type:'input',
+        name:'question',
+        message: 'How can users reach out (Required)',
+        validate: questionInput => {
+          if (questionInput) {
+            return true;
+          } else {
+            console.log('Enter an email that can be reached out to!');
             return false;
           }
         }
