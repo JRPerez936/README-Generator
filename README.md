@@ -23,7 +23,7 @@
   
 
   ## Installation
-  1. Download & Install Node.js
+  1. [Download](#https://nodejs.org/en/download/) & Install Node.js
   2. Clone this repository or download this code from Github
   3. Using command prompt/terminal, change the directory to be in the folder with the code (WK9C-README-Generator)
   4. Type "npm install inquirer" and hit Enter.
