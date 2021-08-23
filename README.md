@@ -34,18 +34,21 @@
 
 
   ## Usage
-  
+  Following the installation steps will allow users to produce their own professional readme 
 
   ## License
   No License
-  Read about the license:
 
   ## Contributing
-  undefined
+  If you would like to contribute or suggest something, feel free to reach out to my email
+  listed under the questions section.
 
   ## Tests
-  t
+  Feel free to run the program and see which segments could use improvement/changing.
 
   ## Questions
-  t
+  If there are any questions, feel free to reach out to me here:
+
+  Email: perezjrp936@gmail.com
+
   

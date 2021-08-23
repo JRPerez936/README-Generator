@@ -45,12 +45,12 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table Of Contents
-  * [Installation]
-  * [Usage]
-  * [License]
-  * [Contributing]
-  * [Tests]
-  * [Questions]
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
   
 
   ## Installation
@@ -70,6 +70,7 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions
+  If you have any questions, feel free to reach out to me here :
   ${data.question}
   
 `;

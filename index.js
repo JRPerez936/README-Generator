@@ -60,12 +60,12 @@ const questions = [
     {
         type:'input',
         name:'contribution',
-        message: 'How can users contribute to the project (Required)',
+        message: 'Enter an Email where users can reach out(Required)',
         validate: contributionInput => {
           if (contributionInput) {
             return true;
           } else {
-            console.log('Describe how users can contribute!');
+            console.log('Describe how users can reach out!');
             return false;
           }
         }
