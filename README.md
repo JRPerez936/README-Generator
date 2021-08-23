@@ -34,7 +34,8 @@
 
 
   ## Usage
-  Following the installation steps will allow users to produce their own professional readme 
+  Following the installation steps will allow users to produce their own professional readme as seen here:
+  
 
   ## License
   No License
