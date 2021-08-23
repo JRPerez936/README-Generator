@@ -34,7 +34,7 @@ const questions = [
     {
         type:'input',
         name:'installation',
-        message: 'Provide a description of the project (Required)',
+        message: 'Provide a description of the project installation(Required)',
         validate: installationInput => {
           if (installationInput) {
             return true;
@@ -59,7 +59,7 @@ const questions = [
     },
     {
         type:'input',
-        name:'contributions',
+        name:'contribution',
         message: 'How can users contribute to the project (Required)',
         validate: contributionInput => {
           if (contributionInput) {
@@ -114,7 +114,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile('.dist/README.md',(fileName, data), err =>{
+    fs.writeFile('./dist/README.md',(fileName, data), err =>{
         if (err){
             console.log(err);
             return
@@ -127,7 +127,7 @@ function writeToFile(fileName, data) {
 function init() {
     return inquirer.prompt(questions)
     .then((data)=>{
-        writeToFile('README.md', generateMarkdown(data))
+        writeToFile('README.md', generateMarkdown(data));
     })
 }
 
