@@ -1,8 +1,8 @@
 
-  # project 1 [![Generic badge](https://img.shields.io/badge/License-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
+  # WK12C-Employee-Tracker [![Generic badge](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Description
-  this is an example project
+  This is a tracker/list used to keep track of the employees in a company setting
 
   ## Table Of Contents
   * [Installation](#installation)
@@ -14,22 +14,22 @@
   
 
   ## Installation
-  download the code and run it
+  download and install
 
   ## Usage
-  example description
+  run the js file in the console and choose one of the options from the menu
 
   ## License
-  ISC
-  Read about the license: https://choosealicense.com/licenses/isc/
+  MIT
+  Read about the license: https://choosealicense.com/licenses/mit/
 
   ## Contributing
-  example@gmail.com
+  perezjrp936@gmail.com
 
   ## Tests
-  example explination
+  running it
 
   ## Questions
   If you have any questions, feel free to reach out to me here :
-  example github
+  email or github
   
