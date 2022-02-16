@@ -34,7 +34,7 @@
 
 
   ## Usage
-  Following the installation steps will allow users to produce their own professional readme as seen [here](https://drive.google.com/file/d/1ANzPmVTYsdVFXLj6JG7szroN389qpQ-A/view?usp=sharing)
+  Following the installation steps will allow users to produce their own professional readme as seen here:
   
   https://drive.google.com/file/d/1ANzPmVTYsdVFXLj6JG7szroN389qpQ-A/view?usp=sharing
   
