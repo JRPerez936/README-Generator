@@ -1,5 +1,5 @@
 
-  # WK9C-Readme Generator
+  # Readme Generator
 
   ## Description
   This repo contains Node.js code for a "Professional Readme Generator". Using code found here:
